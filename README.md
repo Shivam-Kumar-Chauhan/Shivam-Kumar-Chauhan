@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<h3 align="center">A passionate upcoming frontend developer from India</h3>
+<h3 align="center">A passionate upcoming Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-kumar-chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-kumar-chauhan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam-kumar-chauhan" alt="shivam-kumar-chauhan" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **HTML**
 
