@@ -1,28 +1,25 @@
-<h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<h3 align="center">A Passionate Upcoming Software Engineer from India</h3>
+# 💫 About Me:
+🌱 I’m currently learning:<br>      Java<br>💬 Ask me about:<br>      HTML<br>⚡ Fun fact:<br>      I love creating memes
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-kumar-chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-kumar-chauhan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam-kumar-chauhan" alt="shivam-kumar-chauhan" /></a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamkumar--) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shivamkumar_dev) 
 
-<p align="left"> <a href="https://twitter.com/shivamkumar_dev" target="blank"><img src="https://img.shields.io/twitter/follow/shivamkumar_dev?logo=twitter&style=for-the-badge" alt="shivamkumar_dev" /></a> </p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shivam-kumar-chauhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shivam-kumar-chauhan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-kumar-chauhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning **Java**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shivam-kumar-chauhan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-- 💬 Ask me about **HTML**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shivamkumar_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivamkumar_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivamkumar--" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamkumar--" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shivamkumar_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shivamkumar_dev" height="30" width="40" /></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shivam-kumar-chauhan&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-kumar-chauhan&show_icons=true&locale=en&layout=compact" alt="shivam-kumar-chauhan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam-kumar-chauhan&show_icons=true&locale=en" alt="shivam-kumar-chauhan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-kumar-chauhan&" alt="shivam-kumar-chauhan" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=shivam-kumar-chauhan&icon=5&color=9)](https://visitcount.itsvg.in)
